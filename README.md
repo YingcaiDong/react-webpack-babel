@@ -1,3 +1,5 @@
 # react-webpack-babel
-# react-webpack-babel
-# react-webpack-babel
+
+npm run build
+
+npm start
