@@ -1,10 +1,9 @@
 {
   "name": "App",
   "version": "1.0.0",
-  "description": "",
+  "description": "Boilerplate",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack -p --config webpack.config.js",
     "start": "webpack-dev-server"
   },
@@ -19,6 +18,9 @@
     "lodash": "^4.17.4",
     "react": "^15.4.2",
     "react-dom": "^15.4.2",
+    "react-redux": "^5.0.3",
+    "react-router": "^4.0.0",
+    "redux": "^3.6.0",
     "webpack": "^2.3.2",
     "webpack-dev-server": "^2.4.2"
   }
